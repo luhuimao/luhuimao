@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luhuimao
-- 👀 I’m interested in web3
+- 👀 I’m a web3 builder. Experienced in dapp development with using solidity && React
 - 🌱 I’m currently learning something intersting
 - 💞️ I’m looking to collaborate on web3 related project
 - 📫 How to reach me ? (twitter: @Huimao_Lu. E-mail: luhuimao@gmail.com)
